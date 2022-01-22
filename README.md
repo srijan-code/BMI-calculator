@@ -15,5 +15,5 @@ A Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Va
 
 # Glimpse of the app
 
-![ss-1](https://user-images.githubusercontent.com/68854742/119236893-89993480-bb57-11eb-996d-b1940ecff5d7.jpg)
-![ss-2](https://user-images.githubusercontent.com/68854742/119236909-a9305d00-bb57-11eb-9664-7067bb1c6fae.jpg)
+<img src="https://user-images.githubusercontent.com/68854742/119236893-89993480-bb57-11eb-996d-b1940ecff5d7.jpg" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/68854742/119236909-a9305d00-bb57-11eb-9664-7067bb1c6fae.jpg" width="300" height="600">
